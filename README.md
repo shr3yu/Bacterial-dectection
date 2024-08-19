@@ -15,3 +15,5 @@ The solution:
 
 Using the STM32CUBE-IDE, specific output, input, ground, and voltage pins were programmed such that once a mobile phone was placed inside an enclosed cardboard box, UV LED lights on a breadboard would illuminate the surface. Then, the OV5642 camera captures the illuminated phone. The image is put through an algorithm that detects color different from its background environment.
 A percentage of the number of bacteria on the phone's surface is displayed on an LCD screen. 
+
+Access the [design document](https://github.com/shr3yu/Bacterial-dectection/blob/main/Design%20document.pdf)].
